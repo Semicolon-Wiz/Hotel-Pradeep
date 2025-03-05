@@ -63,7 +63,7 @@ export default function page() {
                 <div className="container">
                     <div className="row">
                         <div className="col-md-12">
-                            <div className="title">Contact Us</div>
+                            <div className="title text-center">Contact Us</div>
                         </div>
                     </div>
                 </div>
@@ -85,7 +85,9 @@ export default function page() {
                                     <div className="item" style={{ backgroundColor: "#ffffff" }}>
                                         <div className="contents"> <span className="fa-thin fa-phone"></span>
                                             <h2 className="title">Let's talk with us</h2>
-                                            <p className="text">Phone: (+91) 0542-2204963, 2207231</p>
+                                            <p className="text">Phone: (+91) 0542-2204963,
+                                                <br /> (+91) 0542-2207231, <br />
+                                                (+91) 7408423503, <br /> (+91) 7408423504 <br /> info@hotelpradeep.com</p>
                                         </div>
                                     </div>
                                 </div>

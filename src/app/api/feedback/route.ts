@@ -13,10 +13,10 @@ export async function POST(request: NextRequest) {
 
         const { data, error } = await resend.emails.send({
             from: "Acme <onboarding@resend.dev>",
-            to: ["priyeshrai.dev@gmail.com"],
+            to: ["info@hotelpradeep.com"],
             subject: "Feedback Message from Hotel Pradeep Website Contact Page",
             html: `
-            <h1>We have received new Feedback Message from Hotel Pradeep Website Contact Page with details as given below:</h1> <br/> 
+            <h3>We have received new Feedback Message from Hotel Pradeep Website Contact Page with details as given below:</h3> <br/> 
             <strong>Name:- ${name} <br/> 
             Email:- ${email || ''} <br/> 
             Contact No:- ${phone} <br/>

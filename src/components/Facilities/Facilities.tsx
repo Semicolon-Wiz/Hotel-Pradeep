@@ -29,19 +29,19 @@ export default function Facilities() {
                                     <li>
                                         <div className="list-icon"> <span className="fa-regular fa-check"></span> </div>
                                         <div className="list-text">
-                                            <p>Breakfast: 7.00 am – 11.00 am (daily)</p>
+                                            <p>Breakfast: 7.30 am – 10.30 am (daily)</p>
                                         </div>
                                     </li>
                                     <li>
                                         <div className="list-icon"> <span className="fa-regular fa-check"></span> </div>
                                         <div className="list-text">
-                                            <p>Lunch: 12.00 pm – 2.00 pm (daily)</p>
+                                            <p>Lunch: 12.00 pm – 3.00 pm (daily)</p>
                                         </div>
                                     </li>
                                     <li>
                                         <div className="list-icon"> <span className="fa-regular fa-check"></span> </div>
                                         <div className="list-text">
-                                            <p>Dinner: 6.30 pm – 10.00 pm (daily)</p>
+                                            <p>Dinner: 6.30 pm – 10.30 pm (daily)</p>
                                         </div>
                                     </li>
                                 </ul>

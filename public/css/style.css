@@ -4912,7 +4912,7 @@ body.mfp-zoom-out-cur {
 }
 .contact .item {
   position: relative;
-  height: 250px;
+  height: 310px;
   -webkit-transform-style: preserve-3d;
   transform-style: preserve-3d;
 }
@@ -6133,10 +6133,10 @@ body.mfp-zoom-out-cur {
   font-size: 25px;
 }
 
-input[type="date"]::-webkit-calendar-picker-indicator {
+/* input[type="date"]::-webkit-calendar-picker-indicator {
   filter: invert(100%);
   cursor: pointer;
-}
+} */
 
 .video-container {
   position: relative;

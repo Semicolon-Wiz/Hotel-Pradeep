@@ -7,6 +7,8 @@ export default function page() {
         "/img/gallery/front-view/2.png",
         "/img/gallery/front-view/3.jpg",
         "/img/gallery/front-view/4.png",
+        "/img/gallery/front-view/5.jpg",
+        "/img/gallery/front-view/6.jpg",
     ]
     return (
         <>

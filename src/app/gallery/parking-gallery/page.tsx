@@ -7,6 +7,9 @@ export default function page() {
         "/img/gallery/parking/2.jpg",
         "/img/gallery/parking/3.jpg",
         "/img/gallery/parking/4.jpg",
+        "/img/gallery/parking/5.jpg",
+        "/img/gallery/parking/6.jpg",
+        "/img/gallery/parking/7.jpg",
     ]
     return (
         <>

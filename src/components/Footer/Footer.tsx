@@ -31,7 +31,7 @@ export default function Footer() {
                                 <p>Jagatganj, Varanasi-221002
                                     <br />(U.P.) India
                                 </p>
-                                <div className="phone"><a href="tel:+9105422204963"> (+91) 0542-2204963, 2207231   </a></div>
+                                <div className="phone"><a href="tel:+9105422204963"> (+91) 7408423503, <br />(+91) 7408423504 <br /> (+91) 0542-2204963 <br />(+91) 0542-2207231  </a></div>
                                 <div className="mail"><a href="mailto:info@hotelpradeep.com">info@hotelpradeep.com</a></div>
                             </div>
                         </div>

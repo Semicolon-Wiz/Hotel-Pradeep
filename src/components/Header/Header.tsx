@@ -30,7 +30,7 @@ export default function Header() {
                         <div className="col-md-6">
                             <div className="widget mr-30">
                                 <a href="tel:+9105422204963">
-                                    <i className="fa-solid fa-phone"></i>(+91) 0542-2204963, 2207231
+                                    <i className="fa-solid fa-phone"></i>(+91) 7408423503, 0542-2204963,
                                 </a>
                             </div>
                             <div className="widget">
@@ -43,9 +43,9 @@ export default function Header() {
                             <div className="social">
                                 <ul>
                                     <li><a href="#"><i className="fa-brands fa-youtube"></i></a></li>
-                                    <li><a href="#"><i className="fa-brands fa-linkedin-in"></i></a></li>
+                                    {/* <li><a href="#"><i className="fa-brands fa-linkedin-in"></i></a></li> */}
                                     <li><a href="#"><i className="fa-brands fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i className="fa-brands fa-twitter"></i></a></li>
+                                    {/* <li><a href="#"><i className="fa-brands fa-twitter"></i></a></li> */}
                                     <li><a href="#"><i className="fa-brands fa-instagram"></i></a></li>
                                 </ul>
                             </div>
