@@ -34,7 +34,7 @@ export default function page() {
                   {/* <span>Executive</span> */}
                 </div>
                 <div className="tariff-title">
-                  <p>Delux :</p>
+                  <p>Deluxe :</p>
                   <span><i className="fa-regular fa-indian-rupee-sign"></i> 4000</span>
                 </div>
               </div>
@@ -46,7 +46,7 @@ export default function page() {
                   {/* <span>Executive</span> */}
                 </div>
                 <div className="tariff-title">
-                  <p>Super Delux :</p>
+                  <p>Super Deluxe :</p>
                   <span><i className="fa-regular fa-indian-rupee-sign"></i> 5000</span>
                 </div>
               </div>
