@@ -191,3 +191,7 @@ export default function page() {
         </>
     )
 }
+export const metadata = {
+    title: 'Hotel Pradeep Varanasi | Contact Us for Bookings & Info',
+    description: 'Looking for the best hotel in Varanasi? Contact Hotel Pradeep today for bookings, rates, and more information.',
+}
