@@ -19,7 +19,7 @@ export default function page() {
                     <div className="row">
                         <div className="col-md-12 text-center">
                             {/* <div className="subtitle">Hotel Pradeep</div> */}
-                            <div className="title">Resturant Gallery</div>
+                            <div className="title">Restaurant Gallery</div>
                         </div>
                     </div>
                 </div>
