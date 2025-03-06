@@ -23,5 +23,5 @@ export default function page() {
 
 export const metadata = {
     title: 'Best Hotel Facilities in Varanasi | Hotel Pradeep',
-    description: 'Looking for the best hotel amenities in Varanasi? Hotel Pradeep offers comfortable rooms, great food, and excellent service.',
+    description: 'Looking for the best hotel amenities in Varanasi? Hotel Pradeep offers comfortable rooms, great food, and excellent service.'
 }

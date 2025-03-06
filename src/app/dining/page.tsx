@@ -93,5 +93,5 @@ export default function page() {
 
 export const metadata = {
     title: 'Best Restaurant in Varanasi | Poonam at Hotel Pradeep',
-    description: 'Enjoy delicious Indian food at Poonam Restaurant, Hotel Pradeep. Experience the best dining in Varanasi with rich flavors and great service.',
+    description: 'Enjoy delicious Indian food at Poonam Restaurant, Hotel Pradeep. Experience the best dining in Varanasi with rich flavors and great service.'
 }

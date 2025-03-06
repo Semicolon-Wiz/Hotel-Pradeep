@@ -20,5 +20,5 @@ export default function page() {
 }
 export const metadata = {
     title: 'Hotel Pradeep Photo Gallery | Best Hotel in Varanasi',
-    description: 'Explore Hotel Pradeep’s gallery and see our rooms, dining, and facilities. Get a glimpse of the best hotel experience in Varanasi.',
+    description: 'Explore Hotel Pradeep’s gallery and see our rooms, dining, and facilities. Get a glimpse of the best hotel experience in Varanasi.'
 }

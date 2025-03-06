@@ -57,6 +57,9 @@ export default function Album() {
                                                 {data.description}
                                             </div>
                                         </div>
+                                        <div className="btn">
+                                            <i className="fa-solid fa-arrow-up"></i>
+                                        </div>
                                     </div>
                                 </a>
                             </div>
