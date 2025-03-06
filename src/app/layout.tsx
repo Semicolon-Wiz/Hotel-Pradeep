@@ -24,7 +24,7 @@ export default function RootLayout({
         <link rel="shortcut icon" href="/img/logo/logo_trans.png" type="image/x-icon" />
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gilda+Display&amp;family=Urbanist:wght@300;400;500;600&amp;display=swap" />
         <link rel="stylesheet" href="/css/plugins.css" />
-        <link rel="stylesheet" href="/css/style-06031629.css" />
+        <link rel="stylesheet" href="/css/style.css" />
         <meta name="google-site-verification" content="KmmiItJSKEOVEh-A5wEL3o-8yvdHE-P-Gb-akR8UAy0" />
       </head>
       <body>
