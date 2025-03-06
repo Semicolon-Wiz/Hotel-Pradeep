@@ -5,10 +5,11 @@ import Script from "next/script";
 import Footer from "@/components/Footer/Footer";
 import AppProvider from "./context/Context";
 import { GoogleAnalytics } from '@next/third-parties/google'
+import TawkMessenger from "@/components/ai/Ai";
 
 export const metadata: Metadata = {
-  title: "Hotel Pradeep",
-  description: "Hotel Pradeep",
+  title: "Hotel Pradeep | Luxury Stay & Rooftop Dining in Varanasi",
+  description: "Experience a perfect blend of comfort and elegance at Hotel Pradeep. Enjoy well-appointed rooms and delicious meals at Poonam Restaurant. Book your stay today!",
 };
 
 export default function RootLayout({
@@ -47,6 +48,7 @@ export default function RootLayout({
           <Header />
           {children}
           <Footer />
+          <TawkMessenger />
         </AppProvider>
 
 
