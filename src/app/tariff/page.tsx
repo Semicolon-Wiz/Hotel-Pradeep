@@ -96,5 +96,5 @@ export default function page() {
 
 export const metadata = {
   title: 'Affordable Hotel Tariff in Varanasi | Hotel Pradeep',
-  description: 'Check Hotel Pradeep’s latest room tariff in Varanasi. Enjoy budget-friendly rates with top facilities and great service.',
+  description: 'Check Hotel Pradeep’s latest room tariff in Varanasi. Enjoy budget-friendly rates with top facilities and great service.'
 }

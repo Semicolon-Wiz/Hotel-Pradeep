@@ -24,7 +24,37 @@ export default function page() {
                 </div>
             </section>
 
-            <Gallery imageData={galleryData} title='Gallery' />
+            <section
+                id="gallery"
+                data-scroll-index="4"
+                className="section-padding bg-lightbrown">
+                <div className="container">
+                    <div
+                        className="row galleryscroll"
+                        data-masonry='{"percentPosition": true }'>
+
+                        {
+                            galleryData.map((url, index) => (
+                                <div className="col-lg-4 col-md-6 mb-25" key={index}>
+                                    <div className="item">
+                                        <a href={url}
+                                            title=""
+                                            className="gallery-masonry-item-img-link img-zoom">
+                                            <div className="img">
+                                                <img
+                                                    src={url}
+                                                    className="img-fluid mx-auto d-block"
+                                                    alt=""
+                                                />
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            ))
+                        }
+                    </div>
+                </div>
+            </section>
 
         </>
     )

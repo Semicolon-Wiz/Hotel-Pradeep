@@ -110,5 +110,5 @@ export default function page() {
 
 export const metadata = {
     title: 'About Hotel Pradeep | 3-Star Luxury Stay in Varanasi',
-    description: 'Hotel Pradeep, a 3-star luxury hotel in Varanasi, offers comfort, fine dining at Poonam Restaurant, and warm hospitality for tourists & business travelers.',
+    description: 'Hotel Pradeep, a 3-star luxury hotel in Varanasi, offers comfort, fine dining at Poonam Restaurant, and warm hospitality for tourists & business travelers.'
 }

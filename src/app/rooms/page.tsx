@@ -21,5 +21,5 @@ export default function page() {
 
 export const metadata = {
     title: 'Rooms at Hotel Pradeep | Luxury & Comfort in Varanasi',
-    description: 'Hotel Pradeep offers comfortable rooms in Varanasi. Enjoy a relaxing stay with good service and modern facilities. Perfect for all travelers!',
+    description: 'Hotel Pradeep offers comfortable rooms in Varanasi. Enjoy a relaxing stay with good service and modern facilities. Perfect for all travelers!'
 }
