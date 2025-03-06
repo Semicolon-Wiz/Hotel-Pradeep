@@ -4,6 +4,7 @@ import Header from "@/components/Header/Header";
 import Script from "next/script";
 import Footer from "@/components/Footer/Footer";
 import AppProvider from "./context/Context";
+import { GoogleAnalytics } from '@next/third-parties/google'
 
 export const metadata: Metadata = {
   title: "Hotel Pradeep",
@@ -65,6 +66,7 @@ export default function RootLayout({
         <Script strategy="afterInteractive" src="/js/datepicker.js"></Script>
         <Script strategy="afterInteractive" src="/js/vegas.slider.min.js"></Script>
         <Script strategy="afterInteractive" src="/js/custom.js"></Script>
+        <GoogleAnalytics gaId="G-9FXDWDJ45Z" />
       </body>
     </html>
   );
