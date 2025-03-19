@@ -8,6 +8,8 @@ export default function page() {
         "/img/gallery/reception/3.jpg",
         "/img/gallery/reception/4.jpg",
         "/img/gallery/reception/5.jpg",
+        "/img/gallery/reception/6.jpg",
+        "/img/gallery/reception/7.jpg",
     ]
     return (
         <>
@@ -16,7 +18,7 @@ export default function page() {
                     <div className="row">
                         <div className="col-md-12 text-center">
                             {/* <div className="subtitle">Hotel Pradeep</div> */}
-                            <div className="title">Reception Gallery</div>
+                            <div className="title">Reception & Common Area</div>
                         </div>
                     </div>
                 </div>

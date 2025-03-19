@@ -17,6 +17,7 @@ export default function page() {
         "/img/gallery/rooms/13.jpg",
         "/img/gallery/rooms/14.jpg",
         "/img/gallery/rooms/15.jpg",
+        "/img/gallery/rooms/16.jpg",
     ]
     return (
         <>

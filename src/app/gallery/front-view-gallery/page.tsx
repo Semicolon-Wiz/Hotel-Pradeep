@@ -3,9 +3,7 @@ import React from 'react'
 export default function page() {
     const galleryData = [
         "/img/gallery/front-view/1.jpg",
-        "/img/gallery/front-view/2.png",
         "/img/gallery/front-view/3.jpg",
-        "/img/gallery/front-view/4.png",
         "/img/gallery/front-view/5.jpg",
         "/img/gallery/front-view/6.jpg",
     ]
