@@ -10,7 +10,7 @@ export default function Gallery({ imageData, title }: GalleryProps) {
             <div className="container-fluid p-0">
                 <div className="row justify-content-center">
                     <div className="col-md-12 text-center mb-20">
-                        <div className="section-subtitle">Image Gallery</div>
+                        <div className="section-subtitle">Gallery</div>
                         <div className="section-title">{title}</div>
                     </div>
                 </div>
