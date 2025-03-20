@@ -6,7 +6,7 @@ export default function Album() {
         {
             id: 1,
             title: "Front View",
-            img: "/img/gallery/front-view/1.jpg",
+            img: "/img/gallery/front-view/5.jpg",
             uri: "/front-view-gallery",
             description: "Experience the grand entrance and stunning architecture that welcomes you to our hotel."
         },
@@ -19,7 +19,7 @@ export default function Album() {
         },
         {
             id: 3,
-            title: "Reception",
+            title: "Reception & Common Area",
             img: "/img/gallery/reception/1.jpg",
             uri: "/reception-gallery",
             description: " A warm and inviting reception area designed to provide a seamless check-in experience."

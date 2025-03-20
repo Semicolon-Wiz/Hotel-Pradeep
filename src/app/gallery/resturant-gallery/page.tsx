@@ -11,6 +11,8 @@ export default function page() {
         "/img/gallery/resturant/6.jpg",
         "/img/gallery/resturant/7.jpg",
         "/img/gallery/resturant/8.jpg",
+        "/img/gallery/resturant/9.jpg",
+        "/img/gallery/resturant/10.jpg",
     ]
     return (
         <>

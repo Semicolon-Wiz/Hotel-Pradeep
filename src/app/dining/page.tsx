@@ -85,7 +85,7 @@ export default function page() {
             </section>
 
             {/* <Menu /> */}
-            <Gallery imageData={galleryData} title="Restaurant Gallery" />
+            <Gallery imageData={galleryData} title="A Gallery of Good Taste" />
         </>
     )
 }
