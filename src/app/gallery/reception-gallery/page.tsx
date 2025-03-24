@@ -5,17 +5,13 @@ export default function page() {
     const galleryData = [
         "/img/gallery/reception/1.jpg",
         "/img/gallery/reception/2.jpg",
-        "/img/gallery/reception/3.jpg",
-        "/img/gallery/reception/4.jpg",
         "/img/gallery/reception/5.jpg",
         "/img/gallery/reception/6.jpg",
         "/img/gallery/reception/7.jpg",
         "/img/gallery/reception/8.jpg",
         "/img/gallery/reception/9.jpg",
         "/img/gallery/reception/10.jpg",
-        "/img/gallery/reception/11.jpg",
         "/img/gallery/reception/12.jpg",
-        "/img/gallery/reception/13.jpg",
         "/img/gallery/reception/14.jpg",
         "/img/gallery/reception/15.jpg",
     ]
