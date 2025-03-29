@@ -38,8 +38,7 @@ export default function page() {
                 className="section-padding bg-lightbrown">
                 <div className="container">
                     <div
-                        className="row galleryscroll"
-                        data-masonry='{"percentPosition": true }'>
+                        className="row galleryscroll">
 
                         {
                             galleryData.map((url, index) => (
