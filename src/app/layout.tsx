@@ -6,6 +6,7 @@ import Footer from "@/components/Footer/Footer";
 import AppProvider from "./context/Context";
 import { GoogleAnalytics } from '@next/third-parties/google'
 import TawkMessenger from "@/components/ai/Ai";
+import Sponsors from "@/components/Sponsors/Sponsors";
 
 export const metadata: Metadata = {
   title: "Hotel Pradeep | Luxury Stay & Rooftop Dining in Varanasi",
@@ -47,6 +48,7 @@ export default function RootLayout({
         <AppProvider >
           <Header />
           {children}
+          <Sponsors/>
           <Footer />
           <TawkMessenger />
         </AppProvider>

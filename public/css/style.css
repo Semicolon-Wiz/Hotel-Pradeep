@@ -5109,7 +5109,7 @@ body.mfp-zoom-out-cur {
 }
 .booking-inner {
   position: relative;
-  background-color: rgba(255, 255, 255, 0.1);
+  background-color: rgb(45 48 145);
   border-radius: 5px;
   padding: 15px 15px 0px 15px;
   -webkit-backdrop-filter: blur(5px);
@@ -5212,7 +5212,8 @@ body.mfp-zoom-out-cur {
 .btn-form1-submit {
   margin: 0;
   width: 100%;
-  background: #fff;
+  background: #fff !important;
+  color: #141414 !important;
   text-decoration: none;
   position: relative;
   transition: all 0.3s ease-out;
@@ -5519,7 +5520,7 @@ body.mfp-zoom-out-cur {
 /* ======= Footer style ======= */
 .footer {
   position: relative;
-  background-color: #141414;
+  background-color: #ffffff;
 }
 /* footer top */
 .footer .top {
@@ -5532,21 +5533,21 @@ body.mfp-zoom-out-cur {
   margin-bottom: 15px;
 }
 .footer .top .item h2 {
-  color: #fff;
+  color: #000000;
   font-size: 30px;
   margin-bottom: 20px;
 }
 .footer .top .item h3 {
-  color: #fff;
+  color: #000000;
   font-size: 24px;
 }
 .footer .top .item p,
 .footer .top .item p a {
-  color: rgba(255, 255, 255, 0.6);
+  color: rgba(0, 0, 0, 0.822);
 }
 .footer .top .item .phone {
   font-size: 17px;
-  color: rgba(255, 255, 255, 0.6);
+  color: rgba(0, 0, 0, 0.795);
   position: relative;
   font-weight: 400;
 }
@@ -5554,7 +5555,7 @@ body.mfp-zoom-out-cur {
   font-size: 17px;
   font-weight: 400;
   line-height: 3em;
-  color: rgba(255, 255, 255, 0.6);
+  color: rgba(0, 0, 0, 0.788);
   position: relative;
   display: inline-block;
   -webkit-transition: all 500ms ease;
@@ -5566,7 +5567,7 @@ body.mfp-zoom-out-cur {
   left: 0;
   right: 0;
   height: 1px;
-  background-color: rgba(255, 255, 255, 0.1);
+  background-color: rgba(0, 0, 0, 0.849);
   content: "";
   -webkit-transition: all 500ms ease;
   transition: all 500ms ease;
@@ -5646,7 +5647,7 @@ body.mfp-zoom-out-cur {
   transition: all 0.4s;
   border-radius: 100%;
   font-size: 15px;
-  color: #fff;
+  color: #000000;
   border: 1px solid rgba(255, 255, 255, 0.1);
 }
 .footer .top .social-icons .list-inline {
@@ -5654,7 +5655,7 @@ body.mfp-zoom-out-cur {
 }
 .footer .top .social-icons li:hover {
   background: #2d3091;
-  color: #fff;
+  color: #000000;
   -webkit-transition: all 0.7s;
   -o-transition: all 0.7s;
   transition: all 0.7s;
@@ -5666,7 +5667,7 @@ body.mfp-zoom-out-cur {
   padding: 30px 0;
 }
 .footer .bottom p {
-  color: rgba(255, 255, 255, 0.6);
+  color: #000000;
   font-size: 15px;
   margin: 10px;
 }
@@ -5679,7 +5680,7 @@ body.mfp-zoom-out-cur {
   background-position: 0 100%;
   background-repeat: repeat-x;
   background-size: 1px 1px;
-  color: #fff;
+  color: #000000;
   text-decoration: none;
   transition: background-size 0.2s;
   line-height: 1.75em;
@@ -5700,7 +5701,7 @@ body.mfp-zoom-out-cur {
   font-size: 17px;
 }
 .footer .bottom .links ul li a {
-  color: #fff;
+  color: #000000;
   position: relative;
 }
 .footer .bottom .links ul li:hover,

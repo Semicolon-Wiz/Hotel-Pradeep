@@ -6,7 +6,7 @@ export default function page() {
         "/img/gallery/reception/1.jpg",
         "/img/gallery/reception/2.jpg",
         "/img/gallery/reception/5.jpg",
-        "/img/gallery/reception/6.jpg",
+        // "/img/gallery/reception/6.jpg",
         "/img/gallery/reception/7.jpg",
         "/img/gallery/reception/8.jpg",
         "/img/gallery/reception/9.jpg",

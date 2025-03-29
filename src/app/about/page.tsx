@@ -1,5 +1,6 @@
 import About from '@/components/About/About'
 import Booking from '@/components/Booking/Booking'
+import Sponsors from '@/components/Sponsors/Sponsors'
 import React from 'react'
 
 export default function page() {
@@ -73,32 +74,6 @@ export default function page() {
                         </div>
                         <div className="col-lg-3 offset-lg-1 col-md-6 mb-20 mt-45"> <img className="rounded-2 animation-float1" src="/img/about/abt-01.jpg" alt="" /> </div>
                         <div className="col-lg-3 col-md-6 mb-20"> <img className="rounded-2 animation-float2" src="/img/about/abt-02.jpg" alt="" /> </div>
-                    </div>
-                </div>
-            </section>
-
-            <section className="clients bg-lightbrown" style={{ marginBottom: "30px" }}>
-                <div className="container">
-                    <div className="row wrap">
-                        <div className="col-md-12">
-                            <div className="owl-carousel owl-theme">
-                                <div className="item">
-                                    <a href="#"><img src="/img/clients/1.jpg" alt="" /></a>
-                                </div>
-                                <div className="item">
-                                    <a href="#"><img src="/img/clients/2.jpg" alt="" /></a>
-                                </div>
-                                <div className="item">
-                                    <a href="#"><img src="/img/clients/3.jpg" alt="" /></a>
-                                </div>
-                                <div className="item">
-                                    <a href="#"><img src="/img/clients/4.jpg" alt="" /></a>
-                                </div>
-                                <div className="item">
-                                    <a href="#"><img src="/img/clients/5.jpg" alt="" /></a>
-                                </div>
-                            </div>
-                        </div>
                     </div>
                 </div>
             </section>
